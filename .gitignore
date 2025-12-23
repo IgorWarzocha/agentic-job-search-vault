@@ -1,0 +1,18 @@
+# OpenCode internals
+.opencode/memory/
+.opencode/node_modules/
+.opencode/bun.lock
+.opencode/package.json
+.opencode/remember.jsonc
+
+# Archive and Legacy Materials
+06-Archive/
+01-Core-Materials/CVs/02-application-ready
+01-Core-Materials/CVs/04-readable
+01-Core-Materials/Cover-Letters
+
+# Portfolio - largly unreadable
+01-Core-Materials/Portfolio/AI-Work-Documents
+01-Core-Materials/Portfolio/Design-for-Socials
+01-Core-Materials/Portfolio/Design-to-Print
+01-Core-Materials/Portfolio/Photography-Portfolio
