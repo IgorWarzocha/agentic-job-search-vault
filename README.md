@@ -1,4 +1,4 @@
-# Job Search Vault
+# Agentic Job Search Vault
 
 An AI-powered workflow for high-impact job applications. Built for as an agentic Obsidian-style vault.
 
@@ -12,7 +12,7 @@ An AI-powered workflow for high-impact job applications. Built for as an agentic
 
 ## Requirements
 
-- [opencode](https://github.com/anthropics/opencode) (Claude-powered terminal IDE)
+- [opencode](https://opencode.ai/) (AI-powered terminal IDE)
 - Chrome + [Playwriter Extension](https://chromewebstore.google.com/detail/playwriter-mcp/jfeammnjpkecdekppnclgkkffahnhfhe) (for form automation)
 
 ## Quick Start
@@ -20,8 +20,8 @@ An AI-powered workflow for high-impact job applications. Built for as an agentic
 ### 1. Clone and Open
 
 ```bash
-git clone https://github.com/your-username/job-search-vault.git
-cd job-search-vault
+git clone https://github.com/igor-warzocha/agentic-job-search-vault.git
+cd agentic-job-search-vault
 opencode
 ```
 
@@ -91,7 +91,7 @@ CANDIDATE-PROFILE.md        # Auto-generated profile (source of truth)
 All generated documents follow strict quality standards:
 
 - **No AI Slop:** No "leverage synergies" or "passionate about". Human language only.
-- **British English:** UK spelling throughout.
+- **British English:** UK spelling throughout. (ask the agent to change before you customise, if needed.)
 - **Rich Conciseness:** Maximum 2 pages. Every word earns its place.
 
 ## License
