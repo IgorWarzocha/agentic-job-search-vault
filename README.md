@@ -15,6 +15,8 @@ An AI-powered workflow for high-impact job applications. Built for as an agentic
 - [opencode](https://opencode.ai/) (AI-powered terminal IDE)
 - Chrome + [Playwriter Extension](https://chromewebstore.google.com/detail/playwriter-mcp/jfeammnjpkecdekppnclgkkffahnhfhe) (for form automation)
 
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/d9976279-cbc8-4365-8582-465a943c3a35" />
+
 ## Quick Start
 
 ### 1. Clone and Open
