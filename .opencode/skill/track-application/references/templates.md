@@ -13,7 +13,7 @@
 - **Location:** [City/Remote]
 - **Salary:** [Range if known]
 - **Source:** [Where found]
-- **Applied:** [YYYY-MM-DD]
+- **Applied:** [YYYY-MM-DD or Pending]
 - **Status:** [Current status]
 
 ## Application Materials

@@ -50,6 +50,9 @@ Decide on the application strategy based on analysis:
 ## Step 5: Finalization
 
 1. **Tracking:** Run `track-application` to initialize the log.
+   - **CRITICAL:** Set status to **"Ready to Apply"**.
+   - **CRITICAL:** Set Applied Date to **"Pending"**.
+   - Do NOT mark as "Applied" or "Sent" until the user explicitly confirms submission.
 2. **Email Draft:** Create a submission email using the template in `references/templates.md`.
 3. **Checklist:** Verify completeness using the checklist in `references/templates.md`.
 
